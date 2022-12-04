@@ -1,0 +1,68 @@
+{
+    "convolvulaceae": {
+        "bord": "lisse",
+        "phyllotaxie": "alterné",
+        "type": "simple",
+        "ligneux": false
+    },
+    "monimiaceae": {
+        "bord": "lisse",
+        "phyllotaxie": "opposé",
+        "type": "simple",
+        "ligneux": true
+    },
+    "eugenia": {
+        "bord": "lisse",
+        "phyllotaxie": "opposé",
+        "type": "simple",
+        "ligneux": true
+    },
+    "laurus": {
+        "bord": "lisse",
+        "phyllotaxie": "opposé",
+        "type": "simple",
+        "ligneux": true
+    },
+    "amborella": {
+        "bord": "lisse",
+        "phyllotaxie": "alterné",
+        "type": "simple",
+        "ligneux": true
+    },
+    "litsea": {
+        "bord": "lisse",
+        "phyllotaxie": "alterné",
+        "type": "simple",
+        "ligneux": true
+    },
+    "magnolia": {
+        "bord": "lisse",
+        "phyllotaxie": "alterné",
+        "type": "simple",
+        "ligneux": true
+    },
+    "desmodium": {
+        "bord": "lisse",
+        "phyllotaxie": "alterné",
+        "type": "composée",
+        "ligneux": false
+    },
+    "castarea": {
+        "bord": "denté",
+        "phyllotaxie": "alterné",
+        "type": "simple",
+        "ligneux": true
+    },
+    "ulmus": {
+        "bord": "denté",
+        "phyllotaxie": "alterné",
+        "type": "simple",
+        "ligneux": true
+    },
+    "rubus": {
+        "bord": "denté",
+        "phyllotaxie": "alterné",
+        "type": "composée",
+        "ligneux": true
+    }
+}
