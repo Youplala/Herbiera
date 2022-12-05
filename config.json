@@ -1,65 +1,87 @@
 {
     "convolvulaceae": {
+        "valeur":0,
+        "matrice": [0, 1, 0, 0],
         "bord": "lisse",
         "phyllotaxie": "alterné",
         "type": "simple",
         "ligneux": false
     },
     "monimiaceae": {
+        "valeur":1,
+        "matrice": [0, 0, 0, 1],
         "bord": "lisse",
         "phyllotaxie": "opposé",
         "type": "simple",
         "ligneux": true
     },
     "eugenia": {
+        "valeur":2,
+        "matrice": [0, 0, 0, 1],
         "bord": "lisse",
         "phyllotaxie": "opposé",
         "type": "simple",
         "ligneux": true
     },
     "laurus": {
+        "valeur":3,
+        "matrice": [0, 0, 0, 1],
         "bord": "lisse",
         "phyllotaxie": "opposé",
         "type": "simple",
         "ligneux": true
     },
     "amborella": {
+        "valeur":4,
+        "matrice": [0, 1, 0, 1],
         "bord": "lisse",
         "phyllotaxie": "alterné",
         "type": "simple",
         "ligneux": true
     },
     "litsea": {
+        "valeur":5,
+        "matrice": [0, 1, 0, 1],
         "bord": "lisse",
         "phyllotaxie": "alterné",
         "type": "simple",
         "ligneux": true
     },
     "magnolia": {
+        "valeur":6,
+        "matrice": [0, 1, 0, 1],
         "bord": "lisse",
         "phyllotaxie": "alterné",
         "type": "simple",
         "ligneux": true
     },
     "desmodium": {
+        "valeur":7,
+        "matrice": [0, 1, 1, 0],
         "bord": "lisse",
         "phyllotaxie": "alterné",
         "type": "composée",
         "ligneux": false
     },
-    "castarea": {
+    "castanea": {
+        "valeur":8,
+        "matrice": [1, 1, 0, 1],
         "bord": "denté",
         "phyllotaxie": "alterné",
         "type": "simple",
         "ligneux": true
     },
     "ulmus": {
+        "valeur":9,
+        "matrice": [1, 1, 0, 1],
         "bord": "denté",
         "phyllotaxie": "alterné",
         "type": "simple",
         "ligneux": true
     },
     "rubus": {
+        "valeur":10,
+        "matrice": [1, 1, 1, 1],
         "bord": "denté",
         "phyllotaxie": "alterné",
         "type": "composée",
