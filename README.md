@@ -1,6 +1,6 @@
 # Herbiera
 
-## Instalation 
+## Installation 
 
 1 - Cloner le projet 
 ```
